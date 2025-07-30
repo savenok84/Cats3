@@ -21,5 +21,5 @@ img = load_image (url)
 # if img:
 #     label.config (image=img)
 #     label.image = img #если не прописать, сборщик мусора удалит картинку
-
+#
 window.mainloop()
